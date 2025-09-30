@@ -140,5 +140,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Desenvolvido com ❤️ por Gabrielle Souza
+  Desenvolvido com ❤️ por Gabrielle Valéria
 </p>
